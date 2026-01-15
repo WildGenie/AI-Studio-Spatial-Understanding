@@ -1,0 +1,5 @@
+{
+  "name": "AI Studio Spatial Understanding",
+  "description": "Detect the precise 2D/3D location of objects in any image or live screenshare.",
+  "requestFramePermissions": []
+}
